@@ -14,6 +14,7 @@ namespace Ejercicio23
             double medidaConvertida;
             string opcionMedida;
 
+
             Console.WriteLine("ingrese el formato de convercion");
             Console.WriteLine("(C)entimetros a Pulgadas o (P)ulgaadas a Centrimetros");
             opcionMedida = Convert.ToString(Console.ReadLine());
